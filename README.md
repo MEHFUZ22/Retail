@@ -59,7 +59,7 @@
       <p>The project aimed to analyze transactional data for an online retail company and create customer segmentation to support targeted marketing campaigns. The combination of RFM analysis and the K-means clustering algorithm allowed for a comprehensive understanding of customer value and behavior. The Tableau dashboard provided an intuitive and visually appealing way to present the results, enabling informed decision-making based on the analysis.</p>
     </div>
     <div class="section">
-      <h2 class="section-heading" style="font-size: 40px; font-weight: bold; color: #006400;">Please click <a href="https://notebooksharing.space/view/b9c0243dd340c52fe9ce044554769cbcf935a7fa5985e29d37d3e0249b1cd7fc#displayOptions="><font size=10 color=green>here</font></a> for the project.</h2>
+      <h2 class="section-heading" style="font-size: 40px; font-weight: bold; color: #006400;">Please click <a href="https://notebooksharing.space/view/5ad235ab71c580657da52e544262792a8a13c8b2836f57ac546d4d61850a6222#displayOptions="><font size=10 color=green>here</font></a> for the project.</h2>
     </div>
   </div>
 </body>
