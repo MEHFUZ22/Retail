@@ -42,9 +42,7 @@
           <ul>
             <li>Applied the K-means clustering algorithm to further segment customers.</li>
             <li>Grouped customers based on similarities in their RFM scores or other selected features.</li>
-            <li>Enhanced segmentation
-
- precision and provided additional insights into customer behavior.</li>
+            <li>Enhanced segmentation precision and provided additional insights into customer behavior.</li>
           </ul>
         </li>
         <li>Data Reporting - Dashboarding in Tableau:
@@ -59,6 +57,9 @@
     <div class="section">
       <h2 class="section-heading">Conclusion</h2>
       <p>The project aimed to analyze transactional data for an online retail company and create customer segmentation to support targeted marketing campaigns. The combination of RFM analysis and the K-means clustering algorithm allowed for a comprehensive understanding of customer value and behavior. The Tableau dashboard provided an intuitive and visually appealing way to present the results, enabling informed decision-making based on the analysis.</p>
+    </div>
+    <div class="section">
+      <h2 class="section-heading" style="font-size: 40px; font-weight: bold; color: #006400;">Please click <a href="https://notebooksharing.space/view/b9c0243dd340c52fe9ce044554769cbcf935a7fa5985e29d37d3e0249b1cd7fc#displayOptions="><font size=10 color=green>here</font></a> for the project.</h2>
     </div>
   </div>
 </body>
